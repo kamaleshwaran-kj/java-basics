@@ -11,7 +11,6 @@ public class main {
         ArrayList<String> a = new ArrayList<String>();
 
         a.add("Myilvaganan");
-        a.add("Kamale");
         a.reversed();
         System.out.println(a.reversed());
         System.out.println(a.getClass().getName());
